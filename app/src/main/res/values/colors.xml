@@ -3,4 +3,16 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <color name="white">#fff</color>
+    <color name="ColorGradientStart">#ff4c4d</color>
+    <color name="ColorGradientEnd">#e90f1d</color>
+
+    <!-- switchBtn滑块颜色 -->
+    <color name="thumb">#000000</color>
+    <!-- switchBtn背景颜色 -->
+    <color name="track">#888888</color>
+    <!-- switchBtn未选中的圆环颜色 -->
+    <color name="thumb_ring_unselected">#888888</color>
+    <color name="auto_update_text">#707070</color>
 </resources>

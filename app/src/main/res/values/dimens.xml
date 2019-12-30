@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- switchBtn宽高 -->
+    <dimen name="thumb_wh">30dp</dimen>
+    <!-- switchBtn的半径 -->
+    <dimen name="thumb_radius">15dp</dimen>
+    <!-- switchBtn的圆环宽度 -->
+    <dimen name="thumb_ring_width">2.5dp</dimen>
+</resources>
